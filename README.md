@@ -9,12 +9,6 @@
 
 ---
 
-## Live Demo
-
-> 🚀 **Live URL:** `https://taskflow-frontend.onrender.com`
-> 🔗 **API URL:** `https://taskflow-backend.onrender.com`
-
----
 
 ## Features
 
